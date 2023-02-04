@@ -1,14 +1,13 @@
-- [Backend](#backend)
-  * [Requirements](#requirements)
-  * [Installation](#installation)
-  * [Configuration](#configuration)
-  * [Publish sanctum providers](#publish-sanctum-providers)
-  * [Database migration](#database-migration)
-  * [Running](#running)
-  * [Usage](#usage)
-  * [Points](#points)
-
 # Backend
+
+* [Requirements](#requirements)
+* [Installation](#installation)
+* [Configuration](#configuration)
+* [Publish sanctum providers](#publish-sanctum-providers)
+* [Database migration](#database-migration)
+* [Running](#running)
+* [Usage](#usage)
+* [Points](#points)
 
 ## Requirements
 
